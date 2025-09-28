@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+.link-nav {
+  font-size: 30px;
+  padding-left:50px ;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+main{
+  text-align: center;
+}
+/* Header */
+header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.link-header {
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.link-header:hover {
+  color: #ffcc00;
+}
+
+
+/* Navigation */
+nav {
+  margin: 20px 0;
+  text-align: center;
+}
+
+p:hover{
+  font-size: 25px;
+}
